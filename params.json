@@ -1,6 +1,6 @@
 {
   "name": "Welcome to Yan's Page",
   "tagline": "",
-  "body": "### Welcome to My Page\r\nThis is a testing page.\r\n\r\n![My Photo1](https://github.com/yzhengsecure/yzhengsecure.github.io/blob/master/IMG_0520.JPG)\r\n",
+  "body": "### Welcome to My Page\r\nThis is a testing page.\r\n\r\n![My Photo1](/IMG_0520.JPG)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
